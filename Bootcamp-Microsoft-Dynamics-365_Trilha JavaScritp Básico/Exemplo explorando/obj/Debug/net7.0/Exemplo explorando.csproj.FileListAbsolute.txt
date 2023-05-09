@@ -1,0 +1,15 @@
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\bin\Debug\net7.0\Exemplo explorando.exe
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\bin\Debug\net7.0\Exemplo explorando.deps.json
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\bin\Debug\net7.0\Exemplo explorando.runtimeconfig.json
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\bin\Debug\net7.0\Exemplo explorando.dll
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\bin\Debug\net7.0\Exemplo explorando.pdb
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\Exemplo explorando.csproj.AssemblyReference.cache
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\Exemplo explorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\Exemplo explorando.AssemblyInfoInputs.cache
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\Exemplo explorando.AssemblyInfo.cs
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\Exemplo explorando.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\Exemplo explorando.dll
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\refint\Exemplo explorando.dll
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\Exemplo explorando.pdb
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\Exemplo explorando.genruntimeconfig.cache
+C:\Users\Nicol\Desktop\Cursos\Bootcamp-Microsoft-Dynamics-365\Bootcamp-Microsoft-Dynamics-365_Trilha JavaScritp Básico\Exemplo explorando\obj\Debug\net7.0\ref\Exemplo explorando.dll
